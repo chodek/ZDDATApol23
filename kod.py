@@ -1,1 +1,0 @@
-Tutaj jaakis pythonowy kod.
